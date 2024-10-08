@@ -435,4 +435,17 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     ),
+    (
+        "inception",
+        "christopher nolan",
+        2010,
+        [
+            "leonardo dicaprio",
+            "cilian murphy",
+            "joseph ordon-levitt",
+            "tom hardy",
+            "elliot page",
+            "marion cotillard",
+        ],
+    )
 ]
